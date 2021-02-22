@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: hsl(214, 21%, 15%);
+		background-color: hsl(61, 85%, 37%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -144,7 +144,7 @@ input, select, textarea {
 		}
 
 	body {
-		color: #c8d387;
+		color: #8f9c44;
 	}
 
 	body, input, select, textarea {
@@ -292,7 +292,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #212931;
+		color: #63a752;
 		border-bottom-color: rgba(33, 41, 49, 0.5);
 	}
 
